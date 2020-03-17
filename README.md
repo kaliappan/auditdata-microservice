@@ -1,7 +1,7 @@
 # auditdata-microservice
 This project gives following features-
 
-1. Gives an api to GET retrieve interface details for interface by id.
+1. For Cache service, given an api to GET retrieve interface details for interface by id.
 
         Request:
         * Method: GET
@@ -14,7 +14,7 @@ This project gives following features-
           "createdAt": "2020-03-16T14:23:41.450405"
          }
          
-2. Given an api to 'save audit message' in Audit Table.
+2. For Audit service, gives an api to 'save audit message' in Audit Table.
 
         Request:
         * Method: POST        
