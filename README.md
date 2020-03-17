@@ -15,6 +15,7 @@ This project gives following features-
          }
          
 2. Given an api to 'save audit message' in Audit Table.
+
         Request:
         * Method: POST        
         * POST http://localhost:9081/api/audits/
@@ -28,7 +29,3 @@ This project gives following features-
           "status": "DH-Interface Received",
           "created_ts": "2020-03-16T23:55:10.781"
          }
-        
-         
-         
-       
